@@ -6,3 +6,4 @@ kalian berdua sama sama ganteng
 nah gitu dong akur anjir
 kan bagus
  std::cout <<"hamud ganteng";
+d
