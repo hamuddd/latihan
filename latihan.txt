@@ -8,3 +8,4 @@ kan bagus
  std::cout <<"hamud ganteng";
 d
 aku sebenarnya ganteng
+diterima ga anjing
