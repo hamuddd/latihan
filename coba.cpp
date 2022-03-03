@@ -22,4 +22,5 @@ int main()
     std::cout << s2;
     std::cout << s1;
   std::cout <<"hamud ganteng";
+   std::cout <<"hamud gasssnteng";
 }
