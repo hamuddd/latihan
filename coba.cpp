@@ -21,4 +21,5 @@ int main()
     std::string s2 = reverse_str(s1);  
     std::cout << s2;
     std::cout << s1;
+  std::cout <<"hamud ganteng";
 }
